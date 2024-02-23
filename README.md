@@ -2,7 +2,7 @@
 <h3>A passionate Back-End engineer, currently working at AppWorks School</h3>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=node.js,linux,docker,nginx,mysql,redis,influxdb,aws&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,docker,nginx,mysql,redis,aws&perline=10)](https://skillicons.dev)
 
 
 
