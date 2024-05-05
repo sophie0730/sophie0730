@@ -1,10 +1,11 @@
-<h1>Hi 👋, I'm Sophie</h1>
-<h3>A passionate Back-End engineer, currently working at AppWorks School</h3>
+<div align="center">
+  <h1>Hi there! 👋</h1>
+</div>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,docker,nginx,mysql,redis,aws&perline=10)](https://skillicons.dev)
+![](https://komarev.com/ghpvc/?username=sophie0730&color=brightgreen&style=for-the-badge)
 
-
+- Backend Engineer | Site Reliability Engineer @ Taiwan
+- Web development, Container, Kubernetes, Node.js, Golang
 
 ## How to reach me
 - email: sophy010017@gmail.com
