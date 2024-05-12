@@ -8,6 +8,7 @@
 - Web development, Container, Kubernetes, Node.js, Golang
 
 ## How to reach me
-- email: sophy010017@gmail.com
+- Email: sophy010017@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hsuan-ni-hsu/
+- Blog: https://sophie0730.github.io
 
