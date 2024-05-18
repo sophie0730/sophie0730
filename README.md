@@ -4,8 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=sophie0730&color=brightgreen&style=for-the-badge)
 
-- Backend Engineer | Site Reliability Engineer @ Taiwan
-- Web development, Container, Kubernetes, Node.js, Golang
+- Backend Engineer @ Taiwan
+- Web development, Container, Kubernetes
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## How to reach me
 - Email: sophy010017@gmail.com
