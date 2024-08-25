@@ -4,8 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sophie0730&color=brightgreen&style=for-the-badge)
 
-- Backend Engineer @ Taiwan
-- Web development, Container, Kubernetes
+- Site Reliability Engineer @ OneDegree
+- DevOps/Cloud Native
 
 ## How to reach me
 - Email: sophy010017@gmail.com
