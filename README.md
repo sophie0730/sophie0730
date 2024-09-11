@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sophie0730&color=brightgreen&style=for-the-badge)
 
-- Site Reliability Engineer @ OneDegree
+- Site Reliability Engineer
 - DevOps / Cloud Native
 
 ## How to reach me
