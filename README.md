@@ -2,7 +2,8 @@
   <h1>Hi there! 👋</h1>
 </div>
 
-![](https://komarev.com/ghpvc/?username=sophie0730&color=brightgreen&style=for-the-badge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie0730)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - Site Reliability Engineer
 - DevOps / Cloud Native
