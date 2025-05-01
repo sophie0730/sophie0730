@@ -3,6 +3,7 @@
 </div>
 
 I am a software engineer based in Taipei, Taiwan.
+
 I'm diving deep into learning:
 - Distributed System
 - Cloud Computing
