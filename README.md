@@ -2,7 +2,7 @@
   <h1>Hi there! I'm Sophie Hsu 👋</h1>
 </div>
 
-Software Engineer at MOXA  
+Software Engineer at <a href="https://www.moxa.com/en">MOXA</a>  
 Incoming M.S. Student in Computer Science, National Central University
 
 Currently focused on:
