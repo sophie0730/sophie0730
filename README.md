@@ -1,11 +1,12 @@
 <div align="center">
-  <h1>Hi there! 👋</h1>
+  <h1>Hi there! I'm Sophie Hsu</h1>
 </div>
 
-I am a software engineer based in Taipei, Taiwan.
+Software Engineer @ MOXA  
+Incoming M.S. Student @ NCU CSIE
 
-I'm diving deep into learning:
-- Distributed System
-- Cloud Computing
-
+Currently focused on:
+- Distributed Systems
+- Cloud & Infrastructure Engineering
+- Observability
 
