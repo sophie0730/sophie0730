@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! I'm Sophie Hsu</h1>
+  <h1>Hi there! I'm Sophie Hsu 👋</h1>
 </div>
 
 Software Engineer @ MOXA  
